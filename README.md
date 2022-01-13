@@ -1,6 +1,6 @@
 # odin-recipes
 
-First project oof the Odin Project.
+First project of the Odin Project.
 
 I am going to build a website with different recipes to choose from.
 
